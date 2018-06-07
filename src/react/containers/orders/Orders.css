@@ -1,0 +1,9 @@
+.orders {
+  display: flex !important;
+  flex-flow: row wrap;
+}
+
+.info {
+  width: 40px;
+  height: 40px;
+}

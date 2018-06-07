@@ -1,0 +1,16 @@
+.burger {
+  width: 100%;
+  margin: auto;
+}
+
+.checkout_summary {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
+
+@@media (min-width:600px) {
+  .checkout_summary {
+    width: 500px;
+  }
+}
